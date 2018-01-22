@@ -2,7 +2,7 @@ Milestone 1
 	Input file: data.txt
 	Output file: part-r-0000.bin
 
-	lid of commands to run file assuming inpput files is in HDFS directory /user/hduser/testerIn/
+	list of commands to run file assuming inpput files is in HDFS directory /user/hduser/testerIn/
 
 	1) export HADOOP_CLASSPATH=${JAVA_HOME}/lib/tools.jar
 	2) hadoop com.sun.tools.javac.Main SocialRank.java
