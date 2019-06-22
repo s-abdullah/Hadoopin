@@ -1,4 +1,4 @@
-# Hadoopin
+# Social Rank using Hadoop
 MapReduce implemented with hadoop in an attempt to see how Social ranking algorithms work. SocialRank is very similar to PageRank, except that it operates on social network graphs instead of hyperlink graphs.
 
 
